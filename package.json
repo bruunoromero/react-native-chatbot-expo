@@ -64,11 +64,9 @@
     "lodash": "^4.17.4",
     "prop-types": "^15.5.10",
     "random-id": "1.0.3",
-    "react-native-three-dots-loader": "^1.0.1"
-  },
-  "peerDependencies": {
-    "react": ">= 0.14.0 < 17.0.0-0",
-    "react-native": ">= 0.45.0",
-    "styled-components": ">= 2.0.0 < 4"
+    "react": "16.13.1",
+    "react-native": "^0.63.4",
+    "react-native-three-dots-loader": "^1.0.1",
+    "styled-components": "^5.2.1"
   }
 }
