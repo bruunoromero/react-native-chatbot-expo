@@ -2659,11 +2659,6 @@ react-native-mock@^0.3.1:
     react-timer-mixin "^0.13.3"
     warning "^2.1.0"
 
-react-native-three-dots-loader@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/react-native-three-dots-loader/-/react-native-three-dots-loader-1.0.1.tgz#31ec821865eea6615ce5a1c509d0a8ae78e374b6"
-  integrity sha512-5K/n89+UUm2QNeVum34pycelBhTsOTCtSk3e8Hn6BSXZWfhtJDma+RfdJYGw/uzO/YZH+mPteyS4lhMH/kbVyw==
-
 react-proxy@^1.1.7:
   version "1.1.8"
   resolved "https://registry.yarnpkg.com/react-proxy/-/react-proxy-1.1.8.tgz#9dbfd9d927528c3aa9f444e4558c37830ab8c26a"
