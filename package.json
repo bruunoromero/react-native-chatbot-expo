@@ -36,9 +36,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LucasBassetti/react-native-chatbot-expo/issues"
+    "url": "https://github.com/stormpyro/react-native-chatbot-expo"
   },
-  "homepage": "https://github.com/LucasBassetti/react-native-chatbot-expo#readme",
+  "homepage": "https://github.com/stormpyro/react-native-chatbot-expo#readme",
   "devDependencies": {
     "babel-core": "^6.25.0",
     "babel-eslint": "^10.0.1",
