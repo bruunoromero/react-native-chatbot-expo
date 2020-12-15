@@ -66,6 +66,6 @@
     "random-id": "1.0.3",
     "react-native-animated-ellipsis": "^2.0.0",
     "react-native-three-dots-loader": "^1.0.1",
-    "styled-components": "^5.2.1"
+    "styled-components": "4.2.0"
   }
 }
