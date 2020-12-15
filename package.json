@@ -1,6 +1,6 @@
 {
-  "name": "react-native-chatbot-expo",
-  "version": "0.0.1-alpha.12",
+  "name": "stormpyro-react-native-chatbot-expo",
+  "version": "0.0.1-alpha.13",
   "description": "React Native Chatbot for Expo",
   "main": "lib/index.js",
   "scripts": {
