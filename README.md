@@ -9,19 +9,19 @@ A react native chatbot component to create conversation chats. Based on [react-s
 #### npm
 
 ```bash
-npm install https://github.com/stormpyro/react-native-chatbot-expo --save
+npm install https://github.com/bruunoromero/react-native-chatbot-expo --save
 ```
 
 #### yarn
 
 ```bash
-yarn add https://github.com/stormpyro/react-native-chatbot-expo
+yarn add https://github.com/bruunoromero/react-native-chatbot-expo
 ```
 
 ## Usage
 
 ```javascript
-import ChatBot from "stormpyro-react-native-chatbot-expo";
+import ChatBot from "bruunoromero-react-native-chatbot-expo";
 
 const steps = [
   {
